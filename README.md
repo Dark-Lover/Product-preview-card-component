@@ -12,9 +12,9 @@ Product preview card component with reactjs and Tailwindcss.
 
 ### 🛠 Technologies used in this project
 
-- [React](https://nextjs.org/)
+- [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Tailwindcss](https://sass-lang.com/)
+- [Tailwindcss](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/dashboard)
 
 ### Features and Performance
